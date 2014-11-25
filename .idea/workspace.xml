@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d1d50fd-9f13-45df-a162-9945cfc95178" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="BRUNSWICK-GREEN.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="12" selection-start="601" selection-end="601" vertical-scroll-proportion="0.36914286" vertical-offset="0" max-vertical-offset="875">
+            <state line="12" column="43" selection-start="515" selection-end="515" vertical-scroll-proportion="0.23314285" vertical-offset="0" max-vertical-offset="875">
               <folding />
             </state>
           </provider>
@@ -123,20 +119,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BRUNSWICK-GREEN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BRUNSWICK-GREEN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,7 +255,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="12" selection-start="601" selection-end="601" vertical-scroll-proportion="0.36914286" vertical-offset="0" max-vertical-offset="875">
+        <state line="12" column="43" selection-start="515" selection-end="515" vertical-scroll-proportion="0.23314285" vertical-offset="0" max-vertical-offset="875">
           <folding />
         </state>
       </provider>
